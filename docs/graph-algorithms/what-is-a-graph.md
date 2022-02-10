@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-tags: ['graph','intro','types-of-nodes']
+tags: ['graph','types-of-nodes', 'types-of-edges']
 ---
 
 # Introduction to Graph

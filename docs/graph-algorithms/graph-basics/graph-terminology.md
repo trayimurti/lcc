@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 tags: ['graph', 'terminology', 'cycle-in-a-graph', 'connected-graph', 'tree', 'degree-of-a-node', 'regular-graph', 'complete-graph', 'indegree', 'outdegree', 'bipartite-graph']
 ---
 
