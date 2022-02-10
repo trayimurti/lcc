@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[270],{3596:function(a){a.exports=JSON.parse('{"name":"graph","permalink":"/docs/tags/graph","docs":[{"id":"graph-algorithms/intro/what-is-a-graph","title":"Introduction to Graph","description":"What is a Graph?","permalink":"/docs/graph-algorithms/intro/what-is-a-graph"}],"allTagsPath":"/docs/tags"}')}}]);
