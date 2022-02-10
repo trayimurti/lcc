@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[121],{8070:function(c){c.exports=JSON.parse('[{"name":"graph","permalink":"/lcc/docs/tags/graph","count":1},{"name":"intro","permalink":"/lcc/docs/tags/intro","count":1},{"name":"types-of-nodes","permalink":"/lcc/docs/tags/types-of-nodes","count":1}]')}}]);

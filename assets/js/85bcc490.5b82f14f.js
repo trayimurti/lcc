@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[426],{6818:function(c){c.exports=JSON.parse('{"allTagsPath":"/lcc/blog/tags","slug":"/lcc/blog/tags/ioitc","name":"ioitc","count":3,"permalink":"/lcc/blog/tags/ioitc"}')}}]);
