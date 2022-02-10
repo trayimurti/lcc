@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[1170],{8861:function(c){c.exports=JSON.parse('{"allTagsPath":"/lcc/blog/tags","slug":"/lcc/blog/tags/part-1","name":"part-1","count":1,"permalink":"/lcc/blog/tags/part-1"}')}}]);
