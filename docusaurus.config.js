@@ -11,7 +11,7 @@ const config = {
   title: 'LCC',
   tagline: 'Learn . Code . Contribute',
   url: 'https://trayimurti.github.io',
-  baseUrl: '/lcc/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -36,7 +36,7 @@ const config = {
           rehypePlugins: [katex],
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/trayimurti/lcc/',
+          editUrl: 'https://github.com/trayimurti/trayimurti.github.io/',
         },
         blog: {
           remarkPlugins: [math],
@@ -44,7 +44,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/trayimurti/lcc/',
+            'https://github.com/trayimurti/trayimurti.github.io/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -77,7 +77,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/trayimurti',
+            href: 'https://github.com/trayimurti/lcc',
             className: 'header-github-logo',
             label: 'Github',
             position: 'right',
