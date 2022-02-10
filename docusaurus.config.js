@@ -11,11 +11,11 @@ const config = {
   title: 'LCC',
   tagline: 'Learn . Code . Contribute',
   url: 'https://trayimurti.github.io',
-  baseUrl: '/',
+  baseUrl: '/lcc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.  ico',
-  organizationName: 'trayimurti@github', // Usually your GitHub org/user name.
+  organizationName: 'trayimurti', // Usually your GitHub org/user name.
   projectName: 'lcc', // Usually your repo name.
   stylesheets: [
   {
