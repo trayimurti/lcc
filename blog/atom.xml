@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://trayimurti.github.io/lcc/blog"/>
     <subtitle>LCC Blog</subtitle>
-    <icon>https://trayimurti.github.io/lcc/img/favicon.  ico</icon>
+    <icon>https://trayimurti.github.io/lcc/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[IOITC Day-1 Part-3]]></title>
         <id>ioitc-day-1-part-3</id>
