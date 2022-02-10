@@ -14,7 +14,7 @@ const config = {
   baseUrl: '/lcc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.  ico',
+  favicon: 'img/favicon.ico',
   organizationName: 'trayimurti', // Usually your GitHub org/user name.
   projectName: 'lcc', // Usually your repo name.
   stylesheets: [
