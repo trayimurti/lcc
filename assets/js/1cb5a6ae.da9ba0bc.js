@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[7370],{4829:function(s){s.exports=JSON.parse('{"name":"intro","permalink":"/lcc/docs/tags/intro","docs":[{"id":"graph-algorithms/successor-graphs/intro","title":"Introduction","description":"Successor Graphs","permalink":"/lcc/docs/graph-algorithms/successor-graphs/intro"}],"allTagsPath":"/lcc/docs/tags"}')}}]);
