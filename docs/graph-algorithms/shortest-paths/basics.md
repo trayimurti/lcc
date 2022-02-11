@@ -15,7 +15,7 @@ In an unweighted graph, the length of a path equals the number of its edges, and
 
 ### Implementation
 
-| ![Unweighted Graph](/img/tutorial/graph_algorithms/14.gif) |
+| ![Unweighted Graph](/img/tutorial/graph_algorithms/1.png) |
 |:--:|
 | **Fig. 1:** Unweighted Graph |
 
