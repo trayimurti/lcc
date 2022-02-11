@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+tags: ['successor-graphs', 'finding-successor']
 ---
 
 # Finding Successor
