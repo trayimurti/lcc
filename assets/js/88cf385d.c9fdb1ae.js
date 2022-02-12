@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[2612],{7365:function(s){s.exports=JSON.parse('{"name":"kruskal","permalink":"/lcc/docs/tags/kruskal","docs":[{"id":"graph-algorithms/mst/kruskal","title":"kruskal","description":"","permalink":"/lcc/docs/graph-algorithms/mst/kruskal"}],"allTagsPath":"/lcc/docs/tags"}')}}]);
