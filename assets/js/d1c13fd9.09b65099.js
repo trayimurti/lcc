@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[6338],{3197:function(i){i.exports=JSON.parse('{"name":"sorting","permalink":"/lcc/code/tags/sorting","docs":[{"id":"inoi/inoi1201","title":"Triathlon, INOI 2012","description":"Problem Description","permalink":"/lcc/code/inoi/inoi1201"}],"allTagsPath":"/lcc/code/tags"}')}}]);
