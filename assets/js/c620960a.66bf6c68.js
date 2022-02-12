@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[8552],{9025:function(c){c.exports=JSON.parse('{"name":"2014","permalink":"/lcc/code/tags/2014","docs":[{"id":"inoi/inoi1402","title":"Free ticket, INOI 2014","description":"Problem Description","permalink":"/lcc/code/inoi/inoi1402"}],"allTagsPath":"/lcc/code/tags"}')}}]);

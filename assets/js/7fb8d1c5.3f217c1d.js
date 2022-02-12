@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[1846],{5382:function(c){c.exports=JSON.parse('{"name":"floyd-warshall-algorithm","permalink":"/lcc/code/tags/floyd-warshall-algorithm","docs":[{"id":"inoi/inoi1402","title":"Free ticket, INOI 2014","description":"Problem Description","permalink":"/lcc/code/inoi/inoi1402"}],"allTagsPath":"/lcc/code/tags"}')}}]);
