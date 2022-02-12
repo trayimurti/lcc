@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[8037],{7179:function(c){c.exports=JSON.parse('{"name":"dp","permalink":"/lcc/code/tags/dp","docs":[{"id":"inoi/inoi1301","title":"Calvins Game, INOI 2013","description":"Problem Description","permalink":"/lcc/code/inoi/inoi1301"}],"allTagsPath":"/lcc/code/tags"}')}}]);
