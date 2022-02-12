@@ -26,6 +26,22 @@ const config = {
     crossorigin: 'anonymous',
   },
   ],
+  plugins: [
+    [
+      'content-docs',
+      /** @type {import('@docusaurus/plugin-content-docs').Options} */
+      ({
+        id: 'code',
+        path: 'code',
+        routeBasePath: 'code',
+        remarkPlugins: [math],
+        rehypePlugins: [katex],
+          sidebarPath: require.resolve('./sidebars.js'),
+        // Please change this to your repo.
+        editUrl: 'https://github.com/trayimurti/lcc/tree/main/',
+      }),
+    ],
+  ],
   presets: [
     [
       'classic',
@@ -73,9 +89,25 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Course',
+            label: 'Learn',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/code/intro',
+            label: 'Code',
+            position: 'left',
+            activeBaseRegex: `/code/`,
+          },
+          {
+            to: '/contribute',
+            label: 'Contribute',
+            position: 'left',
+            activeBaseRegex: `/contribute/`,
+          },
+          {
+            to: '/blog', 
+            label: 'Blog', 
+            position: 'left'
+          },
           {
             href: 'https://github.com/trayimurti/lcc',
             className: 'header-github-logo',
