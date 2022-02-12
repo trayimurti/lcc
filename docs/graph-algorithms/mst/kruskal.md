@@ -7,6 +7,8 @@ tags: ['mst', 'kruskal']
 
 Kruskal’s algorithm builds a minimum spanning tree by greedily adding edges to the graph. The initial spanning tree only contains the nodes of the graph and does not contain any edges. Then the algorithm goes through the edges ordered by their weights and always adds an edge to the graph if it does not create a cycle.
 
+## Algorithm
+
 The algorithm maintains the components of the graph. Initially, each node of the graph belongs to a separate component. Always when an edge is added to the graph, two components are joined. Finally, all nodes belong to the same component, and a minimum spanning tree has been found.
 
 |![A graph and a spanning tree](/img/tutorial/graph_algorithms/35.png)|
@@ -32,7 +34,7 @@ $$
 
 Then, we go through the list and add each edge to the graph if it joins two separate components. Fig. 38 shows the steps of the algorithm. Initially, each node belongs to its own component. Then, the first edges on the list ($5–6$, $1–2$, $3–6$, and $1–5$) are added to the graph. After this, the next edge would be $2–3$, but this edge is not added, because it would create a cycle. The same applies to edge $2–5$. Finally, the edge $4–6$ is added, and the minimum spanning tree is ready.
 
-
+## Implementation
 
 When implementing Kruskal’s algorithm, it is convenient to use the edge list representation of the graph. The first phase of the algorithm sorts the edges in the list in $\cal{O}(m \cdot \log m)$ time. After this, the second phase of the algorithm builds the minimum spanning tree as follows:
 
