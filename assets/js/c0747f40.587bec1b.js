@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[9406],{6671:function(c){c.exports=JSON.parse('{"name":"connected-graph","permalink":"/lcc/code/tags/connected-graph","docs":[{"id":"inoi/inoi1302","title":"Sequence Land, INOI 2013","description":"Problem Description","permalink":"/lcc/code/inoi/inoi1302"}],"allTagsPath":"/lcc/code/tags"}')}}]);
