@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[2073],{1320:function(c){c.exports=JSON.parse('{"name":"arrays","permalink":"/lcc/code/tags/arrays","docs":[{"id":"inoi/inoi1202","title":"Table Sum, INOI 2012","description":"Problem Description","permalink":"/lcc/code/inoi/inoi1202"}],"allTagsPath":"/lcc/code/tags"}')}}]);
