@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[4174],{1061:function(c){c.exports=JSON.parse('{"name":"dfs","permalink":"/lcc/code/tags/dfs","docs":[{"id":"inoi/inoi1302","title":"Sequence Land, INOI 2013","description":"Problem Description","permalink":"/lcc/code/inoi/inoi1302"}],"allTagsPath":"/lcc/code/tags"}')}}]);

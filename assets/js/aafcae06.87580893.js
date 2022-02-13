@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklcc=self.webpackChunklcc||[]).push([[952],{4847:function(c){c.exports=JSON.parse('{"name":"2016","permalink":"/lcc/code/tags/2016","docs":[{"id":"inoi/inoi1601","title":"Wealth Disparity, INOI 2016","description":"Problem Description","permalink":"/lcc/code/inoi/inoi1601"}],"allTagsPath":"/lcc/code/tags"}')}}]);
